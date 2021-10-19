@@ -1,0 +1,10 @@
+*constants : son todas las constantes de paginas las cuales no estaran dentro de los modulos si no aca
+
+*interfaces: son los roles
+
+*schema: aca estaran las clases 
+
+*services: se enfonca para la informacion 
+        *API
+
+*mocks: 

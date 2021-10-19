@@ -1,0 +1,32 @@
+{
+        "Aliados":{
+                        "0":{
+                                "id":1,
+                                "imagen" : "assets/Inicio/img/1.jpg",
+                                "title": "Coca-Cola",
+                                "price": 3,
+                                "descripcion": "texto de Coca-Cola"
+                        },
+                        "1":{
+                                "id":1,
+                                "imagen" : "assets/Inicio/img/2.jpg",
+                                "title": "Postobon",
+                                "price": 4,
+                                "descripcion": "Texto de Postobon"
+                        },
+                        "2":{
+                                "id":3,
+                                "imagen" : "assets/Inicio/img/3.jpg",
+                                "title": "Amway",
+                                "price": 3,
+                                "descripcion": "texto de Amway"
+                        },
+                        "3":{
+                                "id":4,
+                                "imagen" : "assets/Inicio/img/4.jpg",
+                                "title": "Sopas y cremas",
+                                "price": 4,
+                                "descripcion": "Texto de Sopas y cremas"
+                        }
+        }
+}

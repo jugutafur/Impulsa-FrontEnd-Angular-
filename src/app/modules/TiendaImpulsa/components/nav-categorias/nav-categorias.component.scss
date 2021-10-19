@@ -1,0 +1,26 @@
+#nav{
+    background-color: blue;
+    width: 100%;
+}
+
+#nav a{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    margin-bottom: .7rem;
+    cursor: pointer;
+    list-style: none;
+}
+
+#nav li{
+    list-style: none;
+}
+
+#nav a:hover{
+    border-bottom: 1px solid black;
+    
+}
+
+// .Active{
+//     border-bottom: 2px solid #939799;
+// }

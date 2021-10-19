@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    // background: #3B4346 url('../../../assets/bg01.jpg');
+    // background: #3B4346 url('./assets/bg03.jpg');
+    // background-repeat: no-repeat;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -1,0 +1,694 @@
+{
+        "Kits":{
+                        "0":{
+                                "id":1,
+                                "imagen" : "assets/Inicio/img/1.jpg",
+                                "title": "Experiencia paspi",
+                                "price": 3,
+                                "descripcion": "texto de Experience"
+                        },
+                        "1":{
+                                "id":1,
+                                "imagen" : "assets/Inicio/img/2.jpg",
+                                "title": "Inicio Rapido nene",
+                                "price": 4,
+                                "descripcion": "Texto de Inicio Rapido"
+                        },
+                        "2":{
+                                "id":3,
+                                "imagen" : "assets/Inicio/img/3.jpg",
+                                "title": "Empresarial",
+                                "price": 3,
+                                "descripcion": "texto de kit Empresarial"
+                        },
+                        "3":{
+                                "id":4,
+                                "imagen" : "assets/Inicio/img/4.jpg",
+                                "title": "Negocios",
+                                "price": 4,
+                                "descripcion": "Texto de kit Negocios"
+                        }
+        },
+        "Servicios":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Servicios"
+                }
+        },
+        "Productos":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Productos"
+                }
+        },
+        "Aliados":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aliados"
+                }
+        },
+        "Aseo":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Aseo"
+                }
+        },
+        "Hogar":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Hogar"
+                }
+        },
+        "Tecnologia":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Tecnologia"
+                }
+        },
+        "Muebles":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Muebles"
+                }
+        },
+        "Zapatos":{
+                "0":{
+                        "id":11,
+                        "imagen" : "assets/galery/11.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/galery/1.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "2":{
+                        "id":2,
+                        "imagen" : "assets/galery/2.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "3":{
+                        "id":3,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "4":{
+                        "id":4,
+                        "imagen" : "assets/galery/4.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "5":{
+                        "id":5,
+                        "imagen" : "assets/galery/5.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "6":{
+                        "id":6,
+                        "imagen" : "assets/galery/6.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "7":{
+                        "id":7,
+                        "imagen" : "assets/galery/7.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "8":{
+                        "id":8,
+                        "imagen" : "assets/galery/8.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "9":{
+                        "id":9,
+                        "imagen" : "assets/galery/9.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                },
+                "10":{
+                        "id":10,
+                        "imagen" : "assets/galery/10.jpg",
+                        "title": "title patPrimo",
+                        "price": 34,
+                        "descripcion": "Descripcion de Zapatos"
+                }
+        },
+        "Alianzas":{
+                "0":{
+                        "id":1,
+                        "imagen" : "assets/Inicio/img/1.jpg",
+                        "title": "Coca-Cola",
+                        "price": 3,
+                        "descripcion": "texto de Coca-Cola"
+                },
+                "1":{
+                        "id":1,
+                        "imagen" : "assets/Inicio/img/2.jpg",
+                        "title": "Postobon",
+                        "price": 4,
+                        "descripcion": "Texto de Postobon"
+                },
+                "2":{
+                        "id":3,
+                        "imagen" : "assets/Inicio/img/3.jpg",
+                        "title": "Amway",
+                        "price": 3,
+                        "descripcion": "texto de Amway"
+                },
+                "3":{
+                        "id":4,
+                        "imagen" : "assets/Inicio/img/4.jpg",
+                        "title": "Sopas y cremas",
+                        "price": 4,
+                        "descripcion": "Texto de Sopas y cremas"
+                }
+}
+}

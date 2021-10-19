@@ -1,0 +1,5 @@
+en esta carpeta estaran los archivos que siempre si o si se van a cargar
+
+llevan 
+guards: son los candados que tiene las rutas que solo algunos usuarios podran pasar que esten login o credenciales
+interceptores: son los datos que se envian a la API librerias y es aca donde se 

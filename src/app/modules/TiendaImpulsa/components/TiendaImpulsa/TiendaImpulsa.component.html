@@ -1,0 +1,19 @@
+<div class="container_tienda">
+    <app-seccion [Entrada]= "var_seccion" class="tienda_seccion"></app-seccion>
+    <app-nav-categorias (salida)="leerDesdeNa($event)" class="tienda_nav"></app-nav-categorias>
+    <div class="tienda_Content">
+        <ul>
+            <h2>{{var_seccion}}</h2>
+            <li *ngFor= 'let i of lista_Categorias' id="producto">
+                <a routerLink="{{var_seccion}}/{{i.id}}">
+                    <p>{{i.id}}</p>
+                    <p>{{i.title}}</p>
+                    <img [src]="i.image" alt="{{i.title}}" title="{{i.title}}">
+                    <p>{{i.price}}</p>
+                    <p>{{i.description | slice:0:5}}</p>
+                    <button (click)="detalle()">detalle</button>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

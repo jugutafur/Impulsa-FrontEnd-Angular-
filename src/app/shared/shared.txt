@@ -1,0 +1,3 @@
+aca van todos los componentes que se pueden compartir incluso para otros proyectospara ello debe ser responsivo a nivel de componente y no de css para que se pueda llevar a otro proyecto
+
+aca tambien hay una carpeta services pero estos son servicios mas especificos

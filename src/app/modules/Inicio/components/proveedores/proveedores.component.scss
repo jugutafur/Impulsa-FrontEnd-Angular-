@@ -1,0 +1,27 @@
+p{
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    line-height: 4rem;
+}
+
+.Container_Alianzas{
+    display: grid;
+    // background-color: green;
+    // grid-auto-columns: 100px;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    column-gap: 2rem;
+    margin-left: 3rem;
+    justify-content: space-around;
+}
+
+.Container_Alianzas img{
+    display: inline-block;
+    border-radius: 50%;
+    // width: 150px;
+    // height: 100px;
+}
+
+li{
+    display: inline-block;
+}

@@ -1,0 +1,18 @@
+<div class="gridBanner">
+    <div class="banner_marca">
+        <img [src]="logo" alt="">
+        <p>Impuls@ tu producto {{variable}}</p>
+    </div>
+    
+    <div class="banner_menu">
+        <nav>
+            <ul>
+                <li *ngFor="let i of vista" >
+                    <a routerLink="/{{i}}" routerLinkActive="active">{{i}}</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<p>desde BannerAdmin</p>

@@ -1,0 +1,13 @@
+<p>Conoce nuestro negocios Aliados </p>
+<div>
+    <ul class="Container_Alianzas">
+        <li *ngFor='let i of lista_Provedores'>
+            <div>
+                <a href="">
+                    <!-- <a (click)="seleccion(i.title)">{{i.title}}</a> -->
+                    <img [src]="i.image" alt="{{i.title}}" title="{{i.title}}">
+                </a>
+            </div>
+        </li>
+    </ul>
+</div>

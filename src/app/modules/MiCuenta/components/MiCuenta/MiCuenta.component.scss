@@ -1,0 +1,43 @@
+.gridMiCuenta{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 80%;
+    margin: 3rem auto;
+}
+
+.gridMiCuenta div{
+    padding: 3rem;
+}
+
+.gridMiCuenta h2{
+    font-size: 3rem;
+}
+
+.gridMiCuenta label{
+    font-size: 2rem;
+}
+
+.gridMiCuenta .imgMiCuenta{
+    background-color: yellow;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+
+.gridMiCuenta .gridMiCuenta_Registro{
+    background-color: blue;
+    grid-column-start: 2;
+    grid-column-end: -1;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.gridMiCuenta .gridMiCuenta_Login{
+    background-color: red;
+    grid-column-start: 2;
+    grid-column-end: -1;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}

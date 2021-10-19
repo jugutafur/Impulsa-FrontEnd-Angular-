@@ -1,0 +1,28 @@
+<!-- <mat-toolbar color="green"> -->
+<div class="gridBanner">
+    <div class="banner_marca">
+        <img [src]="logo" alt="">
+        <p>Impuls@ tu producto</p>
+    </div>
+    
+    <!-- <mat-toolbar-row> -->
+        <div class="banner_menu">
+            <nav>
+                <ul>
+                    <li *ngFor="let i of vista" >
+                        <a 
+                        mat-button routerLink="/{{i}}" 
+                        routerLinkActive="active">{{i}}</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <a mat-raised-button matBadge="6">
+            <mat-icon>shopping_cart</mat-icon>
+            Carrito
+        </a>
+    <!-- </mat-toolbar-row> -->
+</div>
+<!-- </mat-toolbar> -->
+
+<!-- <mat-toolbar-row></mat-toolbar-row> -->

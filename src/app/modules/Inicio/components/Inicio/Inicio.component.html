@@ -1,0 +1,60 @@
+<!-- <router-outlet></router-outlet> -->
+<!-- slider -->
+<div class="slider">
+    <picture>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <img [src]="promo1" alt="slider" title="slider">
+        <!-- <figcaption>slider-2</figcaption> -->
+    </picture>
+</div>
+
+<!-- mainselectores -->
+<div>
+    <p>Categorias Destacadas</p>
+    <ul class="main-kit">
+        <li *ngFor="let i of menus">
+            <div>
+                <a routerLink="{{i.title}}">
+                    <img [src]="i.image" alt="{{i.title}}" title="{{i.title}}">
+                    <h2>{{i.title}}</h2>
+                </a>
+            </div>  
+        </li>
+    </ul>
+</div>
+
+<app-proveedores></app-proveedores>
+<!-- galery -->
+<div class="referencias1">
+    <div>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <!-- <img [src]="Ayuda" alt="Ayuda 1" title="Ayuda 1"> -->
+        <!-- <p>Ayuda</p> -->
+    </div>
+    <div>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <!-- <img [src]="Ayuda" alt="Ayuda 1" title="Ayuda 1"> -->
+        <!-- <p>Ayuda2</p> -->
+    </div>
+    <div>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <!-- <img [src]="Ayuda" alt="Ayuda 1" title="Ayuda 1"> -->
+        <!-- <p>Ayuda3</p> -->
+    </div>
+    <div>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <!-- <img [src]="Ayuda" alt="Ayuda 1" title="Ayuda 1"> -->
+        <!-- <p>Ayuda4</p> -->
+    </div>
+    <div>
+        <!-- <source media="(min-width:1300px)" srcset="Imagenlarge">
+        <source media="(min-width:1000px)" srcset="ImageMedium"> -->
+        <!-- <img [src]="Ayuda" alt="Ayuda 1" title="Ayuda 1"> -->
+        <!-- <p>Ayuda5</p> -->
+    </div>
+</div>

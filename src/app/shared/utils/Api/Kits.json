@@ -1,0 +1,33 @@
+{
+        "Kits":{
+                "0":{
+                        "id":"1",
+                        "imagen" : "assets/Inicio/img/1.jpg",
+                        "title": "Experiencia",
+                        "price": "number",
+                        "descripcion": "texto de Experience"
+                },
+                
+                "1":{
+                        "id":"1",
+                        "imagen" : "assets/Inicio/img/2.jpg",
+                        "title": "Inicio Rapido",
+                        "price": "number",
+                        "descripcion": "Texto de Inicio Rapido"
+                },
+                "2":{
+                        "id":"3",
+                        "imagen" : "assets/Inicio/img/3.jpg",
+                        "title": "Empresarial",
+                        "price": "number",
+                        "descripcion": "texto de kit Empresarial"
+                },
+                "3":{
+                        "id":"4",
+                        "imagen" : "assets/Inicio/img/4.jpg",
+                        "title": "Negocios",
+                        "price": "number",
+                        "descripcion": "Texto de kit Negocios"
+                }
+        }
+}
